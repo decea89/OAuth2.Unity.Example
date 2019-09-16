@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 198b5674ea9896346ad826cfb7ff0c73
+labels:
+- pick
+- fx
+- outline
+- overlay
+- selected
+- glow
+- halo
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
